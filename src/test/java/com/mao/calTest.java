@@ -9,6 +9,6 @@ public class calTest {
 
         cal cal1 = new cal();
         int b=cal1.show(3);
-        Assert.assertEquals("数据错误",6,b);
+        Assert.assertEquals("数据错误1",6,b);
     }
 }
